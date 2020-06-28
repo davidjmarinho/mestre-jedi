@@ -7,3 +7,4 @@ setTimeout(function(){
 },2000);
 
 console.log("término programação sincrono.");
+console.log("");
