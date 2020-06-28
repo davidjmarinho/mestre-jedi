@@ -1,0 +1,1 @@
+console.log("Carregando js via arquivo externo mesmo domínio, detro de uma diretório");
